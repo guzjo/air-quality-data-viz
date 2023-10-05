@@ -1,3 +1,6 @@
+#files and dirs
+tmp-results/
+
 # History files
 .Rhistory
 .Rapp.history
